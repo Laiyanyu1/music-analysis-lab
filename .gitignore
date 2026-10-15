@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.netlify/
+node_modules/
+.venv-score-form/
+backend/vendor/audiveris-macos/
+backend/vendor/Taking-Form/
+backend/vendor/msaf/
+**/__pycache__/
+*.pyc
+work/
+outputs/
+.openai/
